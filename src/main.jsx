@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 
 const  userInfo = {
-  name:"Shoya",
+  name:"Jhon",
   age:22,
 };
 
